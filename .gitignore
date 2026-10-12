@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated database and outputs (you can choose to commit these if required)
+countries.db
+exported_countries.csv
+population_vs_area.png
